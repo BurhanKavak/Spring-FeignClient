@@ -18,14 +18,14 @@
 4. **Feign, arka planda otomatik olarak isteklerin oluşturulmasını ve yönetilmesini sağlar. Bu nedenle daha az kod yazmanız gerekebilir.**
 5. **Mikro servisler arası iletişimi daha özelleştirilmiş ve belirli servisler için optimize edilmiş bir şekilde gerçekleştirmenizi sağlar.**
 
-## 🎯 🔴 **Farklar:**
+## 🔴 **Farklar:**
 
 - **RestTemplate, Spring Framework'un genel bir bileşeni olarak daha genel ve esnek bir yaklaşım sunar. Feign ise Spring Cloud'un mikro servislerin özel ihtiyaçlarına yönelik daha özelleştirilmiş bir çözümüdür.**
 - **Feign, servis arayüzlerini anotasyonlarla tanımlayarak kodu daha düzenli ve anlaşılır hale getirirken, RestTemplate daha düşük seviyeli ve manuel bir yaklaşım sunar.**
 - **Feign, Eureka gibi servis keşif (discovery) çözümleriyle daha iyi entegre olabilir ve bu sayede servis adları dinamik olarak çözümlenebilir.**
 - **Feign, servisler arası isteklerin otomatik olarak dengelemesini ve yük dengelemesini (load balancing) sağlamak için hızlı bir şekilde entegre edilebilir.**
 
-## 🎯 🟢 **Avantajlar:**
+## 🟢 **Avantajlar:**
 
 - **RestTemplate:**
     - **Geniş bir işlevsellik sunar ve genel durumlar için kullanışlıdır.**
