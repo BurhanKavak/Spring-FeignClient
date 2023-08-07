@@ -41,3 +41,7 @@
 - **Feign: Özellikle mikro servisler arasında yapılan isteklerin daha basit ve anlaşılır şekilde tanımlanmasını istediğiniz durumlarda uygundur. Servis keşif çözümleriyle kolayca entegre edilerek dinamik servis adı çözümlemesi yapabilirsiniz.**
 
 **Hangi aracın tercih edilmesi gerektiği, projenin gereksinimlerine ve mikro servis mimarisinin karmaşıklığına bağlı olarak değişebilir.**
+
+## 🎯 **Projeye Genel Bakış**:
+
+![](images/2.png)
